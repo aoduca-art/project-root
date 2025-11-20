@@ -1,1 +1,49 @@
+.info-box{
+   display: flex;
+   flex-direction: column;
+   min-height: 100vh;
+   margin-top: 200px;
+   padding: 20px;
+   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 
+}
+.card{
+    border-color:  #808080;;
+    margin:20px;
+    padding:30px;
+    height: fit-content;
+    width: 100px;
+    position:relative;
+    top: -50px;
+    opacity: 0;
+    animation: practiceAni 2s forwards;
+}
+@keyframes practiceAni {
+    from {top: -50px; opacity: 0;}
+    to{top: 0px; opacity: 1;}
+}
+.header4, .header, .header2, .header5{
+    margin-top:auto;
+    color: rgb(25, 25, 43);
+    position:relative;
+    top:-50px;
+    opacity: 0;
+    animation: animation2 2s forwards;
+}
+@keyframes animation2 {
+    from{top:-50px; opacity: 0;}
+    to{top: 0px; opacity:1;}
+    
+}
+
+.header, .header4{
+    margin-top:130px;
+    color: rgb(25, 25, 43);
+}
+.header2{
+    color: rgb(25, 25, 43);
+}
+.gifs{
+    padding: 30px;
+    margin-left: 50px;
+}
