@@ -2,8 +2,22 @@ Project title: GenAI website
 
 Overview: an Informative website for Generative AI
 
-Instructions on how to run the project: Download the .html files along with assets folder or open link below.
-
+Instructions on how to run the project: Download the .html files along with assets folder 
+.html files should be together with a folder named assets
+.css file should be inside a folder named css
+image files should be inside a folder named img
+both css and img folder should be inside a folder named assets to avoid issues with the css file and images.
+ex.
+   /assets 
+       /css ---> .css file inside
+       /js
+       /img --> img files inside
+   index.html
+   faq.html
+   ethics.html
+   article.html
+   
+or open link below.
 https://raw.githack.com/aoduca-art/project-root/main/index.html
 
 Framework: bootstrap
