@@ -1,6 +1,6 @@
 Project title: GenAI website
 
-Overview: A clunky website with information in regards to Generative AI
+Overview: A website with information in regards to Generative AI
 
 Instructions on how to run the project: 
 
