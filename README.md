@@ -12,7 +12,7 @@ image files should be inside a folder named img
 
 both css and img folder should be inside a folder named assets to avoid issues with the css file and images.
 ex.
-   /assets 
+   /assets
        /css ---> .css file inside
        /js
        /img --> img files inside
