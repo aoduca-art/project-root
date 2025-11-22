@@ -1,6 +1,6 @@
 Project title: GenAI website
 
-Overview: A website with information in regards to Generative AI
+Overview: an Informative website for Generative AI
 
 Instructions on how to run the project: open link below.
 https://raw.githack.com/aoduca-art/project-root/main/index.html
