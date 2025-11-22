@@ -12,21 +12,11 @@ image files should be inside a folder named img
 
 both css and img folder should be inside a folder named assets to avoid issues with the css file and images.
 ex.
-   /assets    
-	
+
+	/assets ---> inside folders named css, js, and img
        /css ---> .css file inside
-		 
        /js
-		 
        /img --> img files inside
-		 
-   index.html
-	
-   faq.html
-	
-   ethics.html
-	
-   article.html
    
 or open link below.
 https://raw.githack.com/aoduca-art/project-root/main/index.html
