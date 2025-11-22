@@ -2,7 +2,8 @@ Project title: GenAI website
 
 Overview: an Informative website for Generative AI
 
-Instructions on how to run the project: open link below.
+Instructions on how to run the project: Download the .html files along with assets folder or open link below.
+
 https://raw.githack.com/aoduca-art/project-root/main/index.html
 
 Framework: bootstrap
